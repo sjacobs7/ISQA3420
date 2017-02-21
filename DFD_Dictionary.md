@@ -11,6 +11,7 @@ The developer initially populates the license and vulnerability database. The de
 #### Manager
 
 The manager queries the license an vulnerability database, and creates or modifies policies surrounding the usage of the software package.
+
 ---
 
 ## *Processes*
@@ -26,6 +27,7 @@ License and Vulnerability data is returned to either the manager or developer af
 #### Update or Read Policy Data
 
 The manager can add new policy or modify existing policy in the Policy Database
+
 ---
 
 ## *Data Flows*
