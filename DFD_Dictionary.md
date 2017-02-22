@@ -58,8 +58,24 @@ The results returned to an entity's License and Vulnerability Query
 
 #### Policy Data Request
 
-A request to either create, modify, or retrieve a policy surrounding the usage of a software package.
+A request to retrieve existing policy from the policy database.
 
-#### Policy Data Response
+#### Policy Data
 
-The resultant outcome of creating, updating, or retrieving a policy.
+Data being either written to the database or retrieved from the database.
+
+---
+
+## *Data Stores*
+
+#### NIST Database
+
+The NIST database is external and stores known vulnerability data.
+
+#### License and Vulnerability Database
+
+Stores license and vulnerability data for software packages that have been scanned and also submitted to the NIST database.
+
+#### Policy Database
+
+Stores policies on the appropriate usage of software packages.
