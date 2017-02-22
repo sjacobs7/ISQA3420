@@ -54,7 +54,7 @@ A query made by entities who wish to obtain the the license and vulnerability da
 
 #### License and Vulnerability Results
 
-The results returned to an entity's License and Vulnerability Query
+The results returned to an entity's License and Vulnerability Query.
 
 #### Policy Data Request
 
