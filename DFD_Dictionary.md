@@ -18,15 +18,19 @@ The manager queries the license an vulnerability database, and creates or modifi
 
 #### Scan Software for Licenses & Vulnerabilities
 
-Vulnerability data is gathered from the NIST database. License data is gathered from Fossolgy by uploading the software package.
+Vulnerability data is gathered from the NIST database. License data is gathered from a license scanning tool by uploading the software package.
 
 #### Request License and Vulnerabily Data
 
-License and Vulnerability data is returned to either the manager or developer after a request has been made.
+License and vulnerability data is returned to either the manager or developer after a request has been made.
 
-#### Update or Read Policy Data
+#### Update/Create OSS Policy
 
-The manager can add new policy or modify existing policy in the Policy Database
+The manager can add new policy or modify existing policy in the Policy Database.
+
+#### Retrieve OSS Policy
+
+The manager can retrieve existing policy from the Policy Database.
 
 ---
 
