@@ -1,15 +1,15 @@
-Project Type: OSS used in Commercial Products
+## Project Type: OSS used in Commercial Products
 
-Green Licenses:
+* Green Licenses:
 
 	MIT
 	BSD
 
-Yellow Licenses: 
+* Yellow Licenses: 
 
 	LPGL
 
-Red Licenses:
+* Red Licenses:
 
 
 	GPLv3
